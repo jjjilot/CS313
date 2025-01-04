@@ -14,4 +14,4 @@ Upon successful completion of the course, students will be able to:
   - demonstrate facility with basic sorting algorithms, their procedures, and their complexity; and
   - demonstrate the ability to use the introduced data structures to develop efficient algorithms for some basic problems and compute the complexity for those algorithms.
 
-Taught by Prof. Thien Huu Nguyen at University of Oregon
+Taught by Prof. Thien Huu Nguyen at University of Oregon.
